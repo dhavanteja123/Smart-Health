@@ -11,3 +11,6 @@ app is under development bugs are expected
 still planned to develop services.It takes some time(20 days).
 as i imported a single code from github there was error in manifest need to clear that.
 contact: dhavan.teja@gmail.com
+
+
+At present need to download the zip file
